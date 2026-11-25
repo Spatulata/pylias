@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pylias</string>
+    <string name="tagline">Объясняй. Угадывай. Программируй!</string>
+
+    <string name="nav_home">Главная</string>
+    <string name="nav_modules">Модули</string>
+    <string name="nav_about">О приложении</string>
+
+    <string name="home_title">Pylias</string>
+    <string name="select_module">Выберите модуль</string>
+    <string name="start_game">Начать игру</string>
+    <string name="no_modules">Сначала создайте модуль со словами</string>
+    <string name="module_empty_words">В выбранном модуле нет слов</string>
+
+    <string name="modules_title">Модули</string>
+    <string name="create_module">Создать модуль</string>
+    <string name="module_name_hint">Название модуля</string>
+    <string name="words_hint">Слова / функции Python (по одному на строку)</string>
+    <string name="add_word">Добавить слово</string>
+    <string name="word_hint">Слово или функция</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="edit_module">Редактировать модуль</string>
+    <string name="words_count">%d слов</string>
+    <string name="delete_module_confirm">Удалить модуль «%1$s»?</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="setup_title">Настройка игры</string>
+    <string name="turn_time">Время хода</string>
+    <string name="extra_time">Доп. время</string>
+    <string name="seconds_format">%d сек</string>
+    <string name="module_label">Модуль: %s</string>
+    <string name="play">Играть</string>
+
+    <string name="explain_prompt">Объясни это другой команде!</string>
+    <string name="speak">Говорите!</string>
+    <string name="pass">Пас</string>
+    <string name="swipe_hint">↑ угадано · ↓ пас</string>
+    <string name="timer_overtime">Доп. время</string>
+    <string name="correct">Угадано</string>
+    <string name="skipped">Пас</string>
+
+    <string name="results_title">Результаты</string>
+    <string name="accuracy">Правильных ответов</string>
+    <string name="grade_label">Отметка</string>
+    <string name="answered_stats">Угадано: %1$d · Пас: %2$d · Всего: %3$d</string>
+    <string name="percent_format">%d%%</string>
+    <string name="play_again">Играть снова</string>
+    <string name="to_home">На главную</string>
+
+    <string name="about_title">О приложении</string>
+    <string name="about_body">Pylias — Alias на тему Python.\n\nСоздавайте модули со словами и функциями, выбирайте время хода и объясняйте карточки команде.\n\nСмахните карточку вверх — угадано, вниз — пас.</string>
+
+    <string name="default_module_name">Python Basics</string>
+
+    <string name="next">Следующий</string>
+    <string name="previous">Предыдущий</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit…</string>
+    <string name="action_settings">Настройки</string>
+</resources>
